@@ -37,4 +37,6 @@ Observações:
 de empréstimo, exiba a mensagem: Agradecemos seu interesse, mas você não atende
 os requisitos mínimos do programa.
 ➢ Caso o colaborador insira um valor de empréstimo que não seja múltiplo de 2, exiba a
-mensagem: Insira um valor válido
+mensagem: Insira um valor válido. 
+Essa aplicação recebe o nome do colaborador, data de admissão, salário e valor do empréstimo solicitado
+e retorna ao usuário a permissão ou rejeição para solicitar o empréstimo.
